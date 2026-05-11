@@ -1,5 +1,7 @@
 # Hi, I'm Duc 👋
 
+🌐 **Explore my interactive portfolio at [duc99nd.github.io](https://duc99nd.github.io/)**
+
 I'm a **Full-stack Developer / Team Lead** focused on **Node.js, NestJS, TypeScript, ReactJS, NextJS, PostgreSQL, Redis, Docker, Linux, and AWS**, with additional production experience in **PHP/Laravel**.
 
 I have 5+ years of experience building and operating production web systems across recruitment, EdTech video, e-commerce, payment, hosting/VPS/VPN, and enterprise workflow platforms.
@@ -179,4 +181,5 @@ An AI-powered English learning platform for Vietnamese learners across Web and M
 
 - Email: duc99nd@gmail.com
 - LinkedIn: https://www.linkedin.com/in/duc99nd
-- Website: https://nguonviecxanh.vn
+- GitHub: https://github.com/duc99nd
+- Portfolio: https://duc99nd.github.io
