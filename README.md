@@ -1,6 +1,6 @@
 # Hi, I'm Duc 👋
 
-I'm a **Full-stack Developer / Team Lead** focused on **Node.js, NestJS, PHP/Laravel, TypeScript, ReactJS, NextJS, PostgreSQL, Redis, Docker, Linux, and AWS**.
+I'm a **Full-stack Developer / Team Lead** focused on **Node.js, NestJS, TypeScript, ReactJS, NextJS, PostgreSQL, Redis, Docker, Linux, and AWS**, with additional production experience in **PHP/Laravel**.
 
 I have 5+ years of experience building and operating production web systems across recruitment, EdTech video, e-commerce, payment, hosting/VPS/VPN, and enterprise workflow platforms.
 
