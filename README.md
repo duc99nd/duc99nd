@@ -1,46 +1,182 @@
+# Hi, I'm Duc 👋
 
-# 👋 Hi, I'm Trinh Van Duc
+I'm a **Full-stack Developer / Team Lead** focused on **Node.js, NestJS, PHP/Laravel, TypeScript, ReactJS, NextJS, PostgreSQL, Redis, Docker, Linux, and AWS**.
 
-Building scalable solutions, one line of code at a time.  
-I’m a full-stack developer based in Vietnam with a passion for creating efficient, scalable web applications. 🚀
+I have 5+ years of experience building and operating production web systems across recruitment, EdTech video, e-commerce, payment, hosting/VPS/VPN, and enterprise workflow platforms.
 
----
-
-### 🧑‍💻 About Me
-
-Hi there! I'm Duc, a full-stack developer with a strong foundation in both back-end and front-end technologies. I graduated from Vietnam National University with a degree in Information Technology. Since 2020, I’ve been building web applications, APIs, and optimizing cloud infrastructures.
-
-I specialize in **PHP**, **JavaScript**, and frameworks like **Laravel**, **Nuxt.js**, and **Nest.js**. My experience working with **AWS** helps me deploy scalable and secure applications to the cloud. I'm always looking to learn the latest trends in development, whether it’s a new framework or cloud technology.
-
-I’m driven by the desire to continuously improve my skills, and I love solving challenging problems. When I’m not coding, I enjoy contributing to open-source projects and exploring new tech.
-
-Feel free to reach out if you'd like to collaborate or have a project in mind!
-
-* ✉️  You can contact me at [duc99nd@gmail.com](mailto:duc99nd@gmail.com)
+I enjoy designing practical backend architectures, optimizing APIs and databases, building reliable async workflows, and delivering products end-to-end.
 
 ---
 
-### 🚀 Skills
+## 💼 Work Experience
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt.js" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+### Zinza Technology
+**Team Lead / Full-stack Developer** | *2020 – Present*
 
+- **Tech Stack:** Node.js (NestJS), PHP (Laravel, CodeIgniter), TypeScript, Vue.js/React, GraphQL, PostgreSQL/MySQL, Redis, Docker, Linux, AWS, CI/CD.
+
+- **Technical Leadership:** Led a team of 3–6 engineers through full SDLC (estimation, sprint planning, code reviews, and release management) while collaborating closely with PMs, QA, and clients.
+- **System Design & Delivery:** Delivered and operated multiple web products across EdTech, Gov/Legal workflows, recruitment, and e-commerce. Owned end-to-end delivery from requirements and architecture to CI/CD and production support.
+- **Performance & Cost Optimization:** Reduced AWS infrastructure costs by ~USD $4,000/month through API optimization, SQL query tuning, Redis caching, and implementing efficient async processing (SQS, Step Functions, Lambda).
+- **Core Engineering:** Built robust S3/queue-based video processing systems, integrated complex GraphQL endpoints, and executed major framework upgrades (e.g., Laravel 5 to 9).
+
+---
+
+## 🚀 Featured Products & Case Studies
+
+### Nguon Viec Xanh
+
+A production recruitment platform for factory, manufacturing, operations, industrial, and frontline jobs in Vietnam.
+
+- Website: https://nguonviecxanh.vn
+- Case Study: https://github.com/duc99nd/nguonviecxanh-case-study
+- Status: Live / Ongoing Development
+- Role: Founder / Product Owner / Full-stack Developer
+- Stack: NestJS, TypeScript, NextJS, ReactJS, PostgreSQL, Redis, Prisma, Cloudflare
+- Highlights:
+  - Built and released a real production product independently
+  - Designed backend APIs, database schema, authentication, and admin operations
+  - Implemented real-time notification system using WebSockets and Web Push
+  - Established automated testing practices with Unit tests and foundational E2E testing
+  - Configured production domain, DNS, SSL, email, deployment, and monitoring
+  - Focused on maintainable architecture, product ownership, and production readiness
+  - Accelerated development cycles and system architecture planning using agentic AI tools (Claude Code, Antigravity)
+
+### LumoResume
+
+A modern resume builder product designed to help users create professional, editable, and downloadable resumes faster.
+
+- Website: https://lumoresume.com
+- Status: Live / Ongoing Development
+- Role: Founder / Product Owner / Full-stack Developer
+- Focus: Resume builder, template system, CV preview/export, user-friendly editing experience
+- Highlights:
+  - Designed a global-facing product experience for job seekers
+  - Built reusable UI patterns for resume templates and editor flows
+  - Implemented comprehensive multi-language (i18n) architecture for global accessibility
+  - Optimized platform to achieve perfect 100/100 SEO and web performance scores
+  - Ensured platform reliability through integrated Unit testing and core E2E test flows
+  - Focused on clean UX, responsive design, maintainable design system, and export-ready PDF documents
+  - Leveraged agentic coding assistants (Claude Code, Antigravity) to rapidly prototype and iterate on complex UI patterns
+
+### OmniKit
+
+A fast, web-based toolkit offering various utilities and productivity workflows.
+
+- Website: https://omnikit-five.vercel.app
+- Status: Live / Ongoing Development
+- Role: Founder / Product Owner / Full-stack Developer
+- Focus: Client-side performance, modular architecture, simple UX
+- Highlights:
+  - Developed a lightweight, utility-oriented MVP with a focus on fast iteration
+  - Built a library of highly reusable UI components to quickly scale new tools
+  - Deployed on Vercel with an emphasis on clean user experience and responsive interactions
+  - Utilized AI-driven development workflows to maximize coding efficiency and speed up feature delivery
+
+### Grow English
+
+An AI-powered English learning platform for Vietnamese learners across Web and Mobile.
+
+- Case Study: https://github.com/duc99nd/english-learning-case-study
+- Status: In development
+- Role: Founder / Product Owner / Full-stack Developer
+- Stack: NestJS, TypeScript, NextJS, React Native, PostgreSQL, Redis, OpenAI, Socket.io
+- Highlights:
+  - Web and mobile architecture with NextJS, NestJS, and React Native
+  - AI-powered grammar, writing, tutoring, and content analysis features
+  - Real-time quiz arena using Socket.io
+  - Offline-first mobile vocabulary cache with SQLite
+  - Technical documentation for architecture, API design, security, performance, and deployment
+  - Streamlined cross-platform development and system design using agentic AI tools (Claude Code, Antigravity)
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+
+### Database & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=flat&logo=gitlab&logoColor=white)
+
+### Tools & Workflow
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+
+---
+
+## 🧩 What I Work On
+
+- Backend architecture with Node.js, NestJS, and TypeScript
+- REST API, WebSocket, GraphQL, authentication, and authorization
+- PostgreSQL/MySQL database design and query optimization
+- Redis caching, async processing, idempotency, and background jobs
+- Full-stack product development with NextJS, ReactJS, and TailwindCSS
+- Quality assurance and system reliability through Unit Testing and foundational E2E Testing
+- Production deployment, CI/CD, monitoring, and incident support
+- AWS-based system design and cost optimization
+- Product ownership from idea to production release
+
+---
+
+## 🎓 Education
+
+- **Engineer’s Degree in Information Technology** — VNU University of Engineering and Technology (UET) *(2017 – 2021)*
+
+---
+
+## 🏆 Certifications & Awards
+
+- [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/12301ae8-1491-4b45-b3ad-bfdedc1cbca1/public_url) *(Feb 2026 – Feb 2029)*
+- 1st Prize — Zinza Technology Hackathon *(2023, 2024, 2025)*
+- Outstanding Dedication Award — Zinza Technology *(2022)*
+
+---
+
+## 📌 Current Focus
+
+- Building production-ready full-stack products
+- Improving system design and cloud architecture skills
+- Deepening Node.js/NestJS, PostgreSQL, Redis, AWS, and distributed systems
+- Documenting real-world engineering case studies
+
+---
+
+## 📫 Contact
+
+- Email: duc99nd@gmail.com
+- LinkedIn: https://www.linkedin.com/in/duc99nd
+- Website: https://nguonviecxanh.vn
