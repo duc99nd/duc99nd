@@ -2,25 +2,32 @@
 
 🌐 **Explore my interactive portfolio at [duc99nd.github.io](https://duc99nd.github.io/)**
 
-I'm a **Full-stack Developer / Team Lead** focused on **Node.js, NestJS, TypeScript, ReactJS, NextJS, PostgreSQL, Redis, Docker, Linux, and AWS**, with additional production experience in **PHP/Laravel**.
+I'm a **Senior PHP/Node.js Developer & Team Lead** with **5+ years of experience building and maintaining outsourcing projects for Japanese clients**. Strong in **PHP, Laravel, CodeIgniter, Node.js, NestJS, MySQL, Redis, REST APIs, Linux, Docker, and AWS**.
 
-I have 5+ years of experience building and operating production web systems across recruitment, EdTech video, e-commerce, payment, hosting/VPS/VPN, and enterprise workflow platforms.
-
-I enjoy designing practical backend architectures, optimizing APIs and databases, building reliable async workflows, and delivering products end-to-end.
+I have a proven track record in production server administration, database operations, framework upgrades, performance optimization, and stable backend delivery across EdTech, recruitment, legal workflow, and e-commerce domains.
 
 ---
 
 ## 💼 Work Experience
 
 ### Zinza Technology
-**Team Lead / Full-stack Developer** | *2020 – Present*
+**Team Lead / Senior PHP-Laravel Developer** | *Jun 2025 – Present*
 
-- **Tech Stack:** Node.js (NestJS), PHP (Laravel, CodeIgniter), TypeScript, Vue.js/React, GraphQL, PostgreSQL/MySQL, Redis, Docker, Linux, AWS, CI/CD.
+- **Delivery-oriented Leadership:** Led a team of 3-6 engineers through requirement clarification, estimation, task breakdown, sprint planning, code reviews, release coordination, and production support for Japanese client projects.
+- **PHP/Laravel & CodeIgniter Engineering:** Owned backend implementation and maintenance for PHP systems using Laravel and CodeIgniter, focusing on maintainable modules, REST APIs, database schemas, batch jobs, permission flows, and admin operations.
+- **System Maintenance & Stability:** Maintained legacy applications, upgraded Laravel versions, fixed production issues, improved test coverage, reduced operational risk, and kept business-critical systems stable across long-running outsourcing engagements.
+- **Production Server & Database Administration:** Managed Linux production servers, deployments, database operations, backups, monitoring, incident response, SQL tuning, Redis caching, and operational stability for live client systems.
+- **Performance & Infrastructure Optimization:** Achieved ~USD $4,000/month in AWS infrastructure cost savings by auditing resource usage, tuning SQL queries, improving Redis caching, optimizing heavy APIs, and moving blocking workflows into reliable async processing.
+- **Engineering Productivity & Development Workflow:** Improved delivery speed and code quality through clearer technical planning, reusable implementation patterns, review discipline, CI/CD workflows, documentation, and practical use of development tools where appropriate.
 
-- **Technical Leadership:** Led a team of 3–6 engineers through full SDLC (estimation, sprint planning, code reviews, and release management) while collaborating closely with PMs, QA, and clients.
-- **System Design & Delivery:** Delivered and operated multiple web products across EdTech, Gov/Legal workflows, recruitment, and e-commerce. Owned end-to-end delivery from requirements and architecture to CI/CD and production support.
-- **Performance & Cost Optimization:** Reduced AWS infrastructure costs by ~USD $4,000/month through API optimization, SQL query tuning, Redis caching, and implementing efficient async processing (SQS, Step Functions, Lambda).
-- **Core Engineering:** Built robust S3/queue-based video processing systems, integrated complex GraphQL endpoints, and executed major framework upgrades (e.g., Laravel 5 to 9).
+**PHP/Laravel Full-stack Developer** | *Nov 2020 – Present*
+
+- **Japan Outsourcing Project Highlights:** Worked on long-term outsourcing projects for Japanese clients, focusing on PHP/Laravel backend development, system maintenance, legacy upgrades, API integrations, production server operations, database maintenance, and performance optimization.
+- **EdTech Video Platform (PHP/Laravel):** Maintained a large Laravel learning platform, built S3 multipart uploads and SQS-based video processing, and upgraded legacy Laravel systems from 5.2 to 8.x with production stability.
+- **Japan Gov/Legal Documentation Workflow:** Collaborated with Japanese stakeholders to build approval and digital signing workflows with strict validation, certificate generation, versioning, and audit logs.
+- **Recruitment Platform:** Improved high-traffic API performance by reducing payload size, tuning and optimizing SQL queries, and contributing to ~USD $4,000/month AWS cost savings through resilient async integrations.
+- **Domain, Hosting & VPN Commerce Platform (PHP/CodeIgniter):** Built and maintained a WHMCS-like commerce platform with payment flows, automated provisioning, secure webhooks, caching, and Linux deployments.
+- **Practical Full-stack Delivery:** Supported React, Vue, Next.js, Node.js, and TypeScript work when required while keeping PHP/Laravel backend stability as the main focus.
 
 ---
 
@@ -97,12 +104,12 @@ An AI-powered English learning platform for Vietnamese learners across Web and M
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
@@ -142,13 +149,13 @@ An AI-powered English learning platform for Vietnamese learners across Web and M
 
 ## 🧩 What I Work On
 
-- Backend architecture with Node.js, NestJS, and TypeScript
+- Backend architecture and system maintenance with PHP (Laravel/CodeIgniter) and Node.js (NestJS)
 - REST API, WebSocket, GraphQL, authentication, and authorization
-- PostgreSQL/MySQL database design and query optimization
+- MySQL/PostgreSQL database design and query optimization
 - Redis caching, async processing, idempotency, and background jobs
+- Production server administration, Linux deployments, CI/CD, and monitoring
 - Full-stack product development with NextJS, ReactJS, and TailwindCSS
-- Quality assurance and system reliability through Unit Testing and foundational E2E Testing
-- Production deployment, CI/CD, monitoring, and incident support
+- Quality assurance, system reliability, and legacy system upgrades
 - AWS-based system design and cost optimization
 - Product ownership from idea to production release
 
@@ -172,7 +179,7 @@ An AI-powered English learning platform for Vietnamese learners across Web and M
 
 - Building production-ready full-stack products
 - Improving system design and cloud architecture skills
-- Deepening Node.js/NestJS, PostgreSQL, Redis, AWS, and distributed systems
+- Deepening PHP/Laravel, Node.js/NestJS, MySQL/PostgreSQL, Redis, AWS, and distributed systems
 - Documenting real-world engineering case studies
 
 ---
