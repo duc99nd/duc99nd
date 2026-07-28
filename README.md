@@ -140,6 +140,6 @@ VNU University of Engineering and Technology (UET), 2017–2021
 ## 📫 Contact
 
 - **Email:** duc99nd@gmail.com
-- **LinkedIn:** [linkedin.com/in/duc99nd](https://www.linkedin.com/in/duc99nd)
+- **LinkedIn:** [linkedin.com/in/duc99nd](https://www.linkedin.com/in/duc99vn)
 - **Portfolio:** [duc99nd.github.io](https://duc99nd.github.io/)
 - **GitHub:** [github.com/duc99nd](https://github.com/duc99nd)
