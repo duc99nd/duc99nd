@@ -123,8 +123,6 @@ VNU University of Engineering and Technology (UET), 2017–2021
 ## 🏆 Certifications & Awards
 
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/12301ae8-1491-4b45-b3ad-bfdedc1cbca1/public_url), Feb 2026 – Feb 2029
-- **1st Prize – Technology Hackathon**, first-prize winner in 2023, 2024, and 2025
-- **Outstanding Dedication Award – Zinza Technology**, 2022
 
 ---
 
