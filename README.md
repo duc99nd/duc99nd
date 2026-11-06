@@ -1,143 +1,130 @@
 # Hi, I'm Duc 👋
 
-🌐 **Portfolio:** [duc99nd.github.io](https://duc99nd.github.io/)
+**Senior Software Engineer / Team Lead · PHP & Node.js · AI-assisted SDLC**
 
-I'm a **Senior PHP/Laravel Developer and Team Lead** with **5+ years of experience delivering and maintaining production web applications for Japanese clients**.
+[Portfolio](https://duc99nd.github.io/) · [LinkedIn](https://www.linkedin.com/in/duc99nd) · [Email](mailto:duc99nd@gmail.com)
 
-My core strengths include **PHP, Laravel, CodeIgniter, REST APIs, MySQL, PostgreSQL, Redis, Linux, Docker, Nginx/Apache, GitLab CI/CD, and AWS**. I also have **3+ years of hands-on frontend experience** with React, Next.js, Vue.js, Nuxt.js, and TypeScript.
+I'm a software engineer based in **Hanoi, Vietnam**, delivering and maintaining production web applications for Japanese clients since **November 2020**. I lead teams of **3–6 engineers** across requirements, implementation, reviews, releases and production support.
 
-I focus on maintainable architecture, production stability, database and API performance, legacy-system modernization, reliable release workflows, and practical AI-assisted development with human review.
+My work focuses on API and database performance, reliable asynchronous processing, legacy-system modernization and production stability. I also build **project-specific AI-assisted development workflows** with reusable agent skills, MCP integrations and human verification.
 
----
+Outside work, I independently built and operate **[Nguon Viec Xanh](https://nguonviecxanh.vn)** and **[LumoResume](https://lumoresume.com)**.
 
 ## 💼 Work Experience
 
-### Technology
+### Zinza Technology · Hanoi, Vietnam
 
-#### Team Lead / Senior PHP/Laravel Developer
-*Jun 2025 – Present*
+#### Team Lead / Senior Software Engineer — PHP & Node.js
 
-- Lead a team of 3–6 engineers through requirement clarification, estimation, task breakdown, code reviews, release coordination, mentoring, and production support.
-- Apply SOLID principles, design patterns, dependency injection, reusable service modules, automated tests, and review standards across PHP/Laravel and CodeIgniter systems.
-- Manage Linux servers, Nginx/Apache, Docker deployments, monitoring, incident response, backups, SQL tuning, Redis caching, and production stability.
-- Build and maintain GitLab CI/CD pipelines for automated deployments, environment configuration, scheduled jobs, and controlled production releases.
-- Contributed to approximately **USD 4,000/month in AWS savings** through resource optimization, SQL tuning, Redis caching, API optimization, and asynchronous processing.
-- Use ChatGPT, Cursor, Codex, and Claude for legacy-code analysis, implementation planning, test generation, review support, and technical documentation, with human review and automated validation.
+*June 2025–Present*
 
-#### PHP/Laravel Full-stack Developer
-*Nov 2020 – May 2025*
+- **Team leadership & delivery:** Lead 3–6 engineers through requirement clarification with Japanese stakeholders, estimation, task breakdown, code reviews, release coordination and production support.
+- **AI-assisted SDLC & MCP:** Build project-specific workflows with reusable agent skills and MCP tool integrations for planning, implementation, code review, automated testing, deployment checks and production-log analysis. Consolidate project documentation into a **single source of truth**, then use review findings, test results and production feedback to improve skills, workflows and quality gates. Require human approval before production changes.
+- **Production engineering:** Manage Linux servers, Nginx/Apache, Docker deployments, monitoring, incident response and backups; improve SQL performance, Redis caching and asynchronous processing.
+- **Release engineering:** Build and maintain GitLab CI/CD pipelines for automated deployments, environment configuration, scheduled jobs and controlled production releases.
+- **Cost optimization:** Contributed to approximately **USD 4,000/month in AWS cost savings** through resource optimization, SQL tuning, Redis caching, API optimization and asynchronous processing.
 
-- Delivered and maintained long-running PHP/Laravel applications for Japanese clients before promotion to Team Lead / Senior Developer.
-- Built S3 multipart uploads and SQS-based video-processing workflows for an EdTech platform.
-- Maintained legacy Laravel applications across multiple versions and upgraded a production system from Laravel 5.x to 8.x while preserving stability.
-- Developed approval, digital-signing, audit-log, payment, provisioning, webhook, and high-traffic API workflows.
-- Improved system performance through smaller API payloads, SQL tuning, caching, and resilient asynchronous integrations.
-- Built and maintained production interfaces and API integrations with React, Next.js, Vue 2, Vue 3, Nuxt.js, and TypeScript.
+#### Full-stack Software Engineer — PHP & Node.js
 
----
+*November 2020–May 2025*
 
-## 🚀 Featured Products & Case Studies
+- Delivered and maintained applications for Japanese clients across EdTech, legal documentation, recruitment and digital services before promotion to Team Lead.
+- **Legal & government documentation:** Built approval and digital-signing workflows with validation, certificate generation, versioning and audit logs.
+- **EdTech video platform:** Built S3 multipart uploads and SQS-based video-processing workflows; upgraded a legacy production system while preserving stability.
+- **Recruitment platform — Node.js / NestJS:** Improved high-traffic API performance through smaller payloads, SQL tuning, caching and resilient asynchronous integrations.
+- **Hosting & digital services:** Built payment, automated provisioning, renewal and secure webhook workflows for domain, VPS, VPN and SSL services.
+- **Frontend delivery:** Built production interfaces and API integrations with React, Next.js, Vue 2/3, Nuxt.js and TypeScript, including 3+ years of frontend experience.
+
+## 🤖 How I Use AI in Engineering
+
+I use **Claude Code, Codex, Cursor and ChatGPT** within project-specific engineering workflows:
+
+**Requirements → Planning → Implementation → Code Review → Testing → Deployment Verification → Production Feedback**
+
+- Give agents relevant business rules, architecture, dependencies and acceptance criteria through shared project documentation.
+- Define reusable **agent skills** and connect tools through **MCP** to support each stage of delivery.
+- Validate proposed changes with human review, automated tests and explicit quality gates before release.
+- Feed review findings, regression cases and production feedback back into documentation and skills to improve the process over time.
+
+## 🚀 Featured Products & Projects
 
 ### [Nguon Viec Xanh](https://nguonviecxanh.vn)
 
-A production recruitment platform for factory, manufacturing, operations, industrial, and frontline jobs in Vietnam.
+A production recruitment platform for factory, manufacturing and frontline jobs in Vietnam.
 
-- **Role:** Founder / Product Owner / Lead Full-stack Engineer
-- **Stack:** NestJS, TypeScript, Next.js, React, PostgreSQL, Redis, Prisma, Cloudflare
-- Owned system architecture, PostgreSQL data design, authentication, Redis caching, API integration, frontend development, and delivery from MVP to production.
-- Delivered candidate, employer, and admin workflows, including job search, applications, profiles, WebSockets, Web Push, SEO, responsive interfaces, and automated tests.
-- [View case study](https://github.com/duc99nd/nguonviecxanh-case-study)
+**Role:** Creator & Full-stack Engineer — independently built from MVP to production.
+
+- Built the architecture, PostgreSQL database design, authentication, Redis caching and React/Next.js frontend.
+- Implemented job search, applications, candidate/employer/admin workflows, WebSockets, Web Push, SEO, responsive interfaces and automated tests.
+
+**Stack:** Node.js, NestJS, TypeScript, Next.js, React, PostgreSQL, Redis, Cloudflare.
+
+[Case study](https://github.com/duc99nd/nguonviecxanh-case-study)
 
 ### [LumoResume](https://lumoresume.com)
 
-A multilingual resume builder for creating, editing, previewing, and exporting professional resumes.
+A multilingual resume builder for creating, editing, previewing and exporting professional resumes, including an ATS resume option.
 
-- **Role:** Founder / Product Owner / Lead Full-stack Engineer
-- **Stack:** Next.js, React, TypeScript, Tailwind CSS
-- Designed reusable template architecture, editor flows, scalable data structures, multilingual support, and reliable PDF export workflows.
-- Achieved Lighthouse scores of up to **100/100 for SEO and performance on key pages**.
-- Protected core flows with unit tests, E2E tests, and structured release checks.
+**Role:** Creator & Full-stack Engineer — independently built and operated.
+
+- Designed reusable templates, editor flows, resume data structures, multilingual support and PDF export workflows.
+- Achieved Lighthouse scores of **up to 100/100 for SEO and performance on key pages**; protected core flows with unit tests, E2E tests and release checks.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS.
+
+### AI-native Engineering Knowledge Base
+
+A personal docs-as-code knowledge base with reusable AI workflows for technical writing and review.
+
+- **Agent skills & quality gates:** Built shared Claude Code/Codex skills, a Python checker enforcing **45+ automated rules** and a post-edit hook, with explicit **APPROVE / REQUEST REVISION / REJECT** gates.
+- **Evaluation & shared context:** Tested correct and intentionally broken fixtures with expected rule IDs. Used `AGENTS.md`, shared rules and isolated Git worktrees for agent coordination, handoffs and merge verification.
+- **MCP lab:** Built a read-only Python MCP server for synthetic appointment slots and policy lookup, with input validation and handler/stdio tests.
+
+**Stack:** Claude Code, Codex, Agent Skills, MCP, Python, MkDocs, Git.
 
 ### Grow English
 
-An AI-powered English-learning platform for Vietnamese learners across web and mobile.
+An AI-powered English-learning project for Vietnamese learners across web and mobile.
 
-- **Role:** Founder / Product Owner / Full-stack Developer
-- **Stack:** NestJS, TypeScript, Next.js, React Native, PostgreSQL, Redis, OpenAI, Socket.io
-- Designed web and mobile architecture, AI-assisted learning workflows, real-time quiz features, and offline-first mobile vocabulary storage.
-- Documented architecture, API design, security, performance, and deployment decisions.
-- [View case study](https://github.com/duc99nd/english-learning-case-study)
+- Designed web and mobile architecture, AI-assisted learning workflows, real-time quizzes and offline-first mobile vocabulary storage.
+- Documented architecture, API design, security, performance and deployment decisions.
 
----
+**Stack:** NestJS, TypeScript, Next.js, React Native, PostgreSQL, Redis, OpenAI, Socket.io.
+
+[Case study](https://github.com/duc99nd/english-learning-case-study)
 
 ## 🛠 Technical Skills
 
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_5.x–12.x-FF2D20?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue_2_/_Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Database & Cache
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### DevOps, CI/CD & Cloud
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2_/_S3_/_SQS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-### Engineering Practices & Tools
-
-- SOLID principles, design patterns, dependency injection, code review, and automated testing
-- Database design, query optimization, caching, queues, jobs, and batch processing
-- Production operations, monitoring, incident response, backups, and release engineering
-- ChatGPT, Cursor, Codex, Claude, Jira, Slack, and Postman
-
----
-
-## 🎓 Education
-
-**Engineer’s Degree in Information Technology**  
-VNU University of Engineering and Technology (UET), 2017–2021
-
----
+| Area | Technologies & Practices |
+| --- | --- |
+| Backend | PHP, Node.js, NestJS, REST APIs, queues, jobs, batch processing |
+| Frontend | React, Next.js, Vue 2/3, Nuxt.js, TypeScript |
+| Data | MySQL, PostgreSQL, MongoDB, Redis, database design, SQL tuning |
+| Cloud & Operations | AWS (EC2, S3, SQS), Linux, Docker, Nginx/Apache, monitoring, incident response |
+| Delivery & Quality | GitLab CI/CD, code review, automated testing, release engineering |
+| AI-assisted Engineering | Claude Code, Codex, Cursor, ChatGPT, Agent Skills, MCP, quality gates, shared project context |
 
 ## 🏆 Certifications & Awards
 
-- [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/12301ae8-1491-4b45-b3ad-bfdedc1cbca1/public_url), Feb 2026 – Feb 2029
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/12301ae8-1491-4b45-b3ad-bfdedc1cbca1/public_url)** — February 2026.
+- **Three-time Hackathon Champion — Zinza Technology:** Won first prize in three consecutive years: **2023, 2024 and 2025**.
+- **Outstanding Dedication Award — Zinza Technology:** June 2022.
 
----
+## 🎓 Education
+
+**Engineer's Degree in Information Technology**  
+VNU University of Engineering and Technology (UET), **2017–2021**.
 
 ## 📌 Current Focus
 
-- Deepening hands-on knowledge of Laravel 12 and modern Laravel architecture
-- Building and operating production-ready full-stack products
-- Improving system design, cloud architecture, CI/CD, and distributed-system skills
-- Documenting real-world engineering case studies
-
----
+- Improving AI-assisted SDLC workflows, reusable agent skills, MCP integrations and evaluation practices.
+- Building and operating independently developed products.
+- Deepening system design, cloud architecture and production reliability skills.
+- Learning **Java / Spring Boot** through hands-on labs.
 
 ## 📫 Contact
 
-- **Email:** duc99nd@gmail.com
-- **LinkedIn:** [linkedin.com/in/duc99nd](https://www.linkedin.com/in/duc99vn)
+- **Email:** [duc99nd@gmail.com](mailto:duc99nd@gmail.com)
+- **LinkedIn:** [linkedin.com/in/duc99nd](https://www.linkedin.com/in/duc99nd)
 - **Portfolio:** [duc99nd.github.io](https://duc99nd.github.io/)
 - **GitHub:** [github.com/duc99nd](https://github.com/duc99nd)
